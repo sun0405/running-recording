@@ -21,7 +21,7 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'About',
-      url: 'https://sun0405.github.io/',
+      url: 'https://sun0405.github.io/about/',
     },
   ],
 };
